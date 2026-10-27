@@ -1,1 +1,7 @@
-S
+
+streamlit
+pymupdf
+sentence-transformers
+faiss-cpu
+requests
+numpy
